@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goldenrod/static/css/main.a8d3fcab.chunk.css",
+    "main.js": "/goldenrod/static/js/main.b20d7392.chunk.js",
+    "main.js.map": "/goldenrod/static/js/main.b20d7392.chunk.js.map",
+    "runtime-main.js": "/goldenrod/static/js/runtime-main.00ca67b9.js",
+    "runtime-main.js.map": "/goldenrod/static/js/runtime-main.00ca67b9.js.map",
+    "static/js/2.83cd5cc9.chunk.js": "/goldenrod/static/js/2.83cd5cc9.chunk.js",
+    "static/js/2.83cd5cc9.chunk.js.map": "/goldenrod/static/js/2.83cd5cc9.chunk.js.map",
+    "static/js/3.0f402928.chunk.js": "/goldenrod/static/js/3.0f402928.chunk.js",
+    "static/js/3.0f402928.chunk.js.map": "/goldenrod/static/js/3.0f402928.chunk.js.map",
+    "index.html": "/goldenrod/index.html",
+    "static/css/main.a8d3fcab.chunk.css.map": "/goldenrod/static/css/main.a8d3fcab.chunk.css.map",
+    "static/js/2.83cd5cc9.chunk.js.LICENSE.txt": "/goldenrod/static/js/2.83cd5cc9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00ca67b9.js",
+    "static/js/2.83cd5cc9.chunk.js",
+    "static/css/main.a8d3fcab.chunk.css",
+    "static/js/main.b20d7392.chunk.js"
+  ]
+}
