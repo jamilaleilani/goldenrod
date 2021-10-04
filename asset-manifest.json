@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goldenrod/static/css/main.6b73dba1.chunk.css",
+    "main.css": "/goldenrod/static/css/main.0bacb19d.chunk.css",
     "main.js": "/goldenrod/static/js/main.7df950c4.chunk.js",
     "main.js.map": "/goldenrod/static/js/main.7df950c4.chunk.js.map",
     "runtime-main.js": "/goldenrod/static/js/runtime-main.d9501568.js",
@@ -10,7 +10,7 @@
     "static/js/3.d0eef414.chunk.js": "/goldenrod/static/js/3.d0eef414.chunk.js",
     "static/js/3.d0eef414.chunk.js.map": "/goldenrod/static/js/3.d0eef414.chunk.js.map",
     "index.html": "/goldenrod/index.html",
-    "static/css/main.6b73dba1.chunk.css.map": "/goldenrod/static/css/main.6b73dba1.chunk.css.map",
+    "static/css/main.0bacb19d.chunk.css.map": "/goldenrod/static/css/main.0bacb19d.chunk.css.map",
     "static/js/2.d50cac01.chunk.js.LICENSE.txt": "/goldenrod/static/js/2.d50cac01.chunk.js.LICENSE.txt",
     "static/media/landing.b3a20374.svg": "/goldenrod/static/media/landing.b3a20374.svg",
     "static/media/purpleBlob.86f4fc2c.svg": "/goldenrod/static/media/purpleBlob.86f4fc2c.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.d9501568.js",
     "static/js/2.d50cac01.chunk.js",
-    "static/css/main.6b73dba1.chunk.css",
+    "static/css/main.0bacb19d.chunk.css",
     "static/js/main.7df950c4.chunk.js"
   ]
 }
