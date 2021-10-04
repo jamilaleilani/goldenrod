@@ -1,4 +1,15 @@
-.App {
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   font-size: 12px;
-  font-family: "futura";
+  font-family: "gill sans";
+  overflow: auto;
+  /* outline: .5px solid black;
+  border: .5px solid red; */
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
 }

@@ -1,31 +1,35 @@
 .schedule {
   background: #F5DAFF;
-  border: 10vh solid #FDFDFD;
   display: flex;
   flex-direction: column;
+  margin: 4vh 1vw;
 }
 
 .content {
   display: flex;
   flex-direction: column;
-  margin: 3vw;
+  margin: 15vh auto 0 auto;
 }
 
 .scheduleItem {
   display: flex;
   justify-content: space-between;
-  margin: 2vw;
-  font-size: 4vw;
+  margin: 1vw 0;
   color: #7D86F1;
   align-items: flex-end;
 }
 
 .time {
-  font-size: 3vw;
+  font-size: min(3vh, 4vw);
+}
+
+.activity {
+  margin-left: 5vw;
+  font-size: min(4vh, 5vw);
 }
 
 .title {
-  transform: rotate(180deg);
+  /* transform: rotate(180deg);
   text-stroke: 1px #F4FFDB;
   -webkit-text-stroke: 2px #F4FFDB;
   font-size: 15vw;
@@ -33,5 +37,7 @@
   text-stroke: 1px #CBB2F7;
   -webkit-text-stroke: 4px #CBB2F7;
   height: 20vh;
-  text-transform: uppercase;
+  text-transform: uppercase; */
+  height: min(12vh, 14vw);
+  margin: 5vh 0 8vh 0;
 }
