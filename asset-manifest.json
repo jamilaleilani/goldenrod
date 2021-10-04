@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/goldenrod/static/css/main.0bacb19d.chunk.css",
-    "main.js": "/goldenrod/static/js/main.7df950c4.chunk.js",
-    "main.js.map": "/goldenrod/static/js/main.7df950c4.chunk.js.map",
+    "main.js": "/goldenrod/static/js/main.4ceded5b.chunk.js",
+    "main.js.map": "/goldenrod/static/js/main.4ceded5b.chunk.js.map",
     "runtime-main.js": "/goldenrod/static/js/runtime-main.d9501568.js",
     "runtime-main.js.map": "/goldenrod/static/js/runtime-main.d9501568.js.map",
     "static/js/2.d50cac01.chunk.js": "/goldenrod/static/js/2.d50cac01.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.d9501568.js",
     "static/js/2.d50cac01.chunk.js",
     "static/css/main.0bacb19d.chunk.css",
-    "static/js/main.7df950c4.chunk.js"
+    "static/js/main.4ceded5b.chunk.js"
   ]
 }
