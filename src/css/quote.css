@@ -1,0 +1,18 @@
+.quote {
+  background: ;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F4FFDB;
+}
+
+.quoteText {
+  margin: 7vw;
+  padding: 5vw;
+  font-size: 7vw;
+  text-align: center;
+  line-height: 2;
+  font-style: italic;
+  border: 4px solid #CBB2F7;
+  color: #7D86F1;
+}

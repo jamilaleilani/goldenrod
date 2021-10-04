@@ -1,23 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import './css/App.css';
+import Landing from './landing.js';
+import Schedule from './schedule.js';
+import Quote from './quote.js';
+import Register from './register.js';
+import Sponsor from './sponsor.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Landing />
+      <Schedule />
+      <Quote />
+      <Register />
+      <Sponsor />
     </div>
   );
 }
