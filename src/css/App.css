@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   font-size: 12px;
-  font-family: "gill sans";
+  font-family: "gill sans" !important;
   overflow: auto;
   /* outline: .5px solid black;
   border: .5px solid red; */
