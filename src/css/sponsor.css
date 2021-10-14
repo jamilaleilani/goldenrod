@@ -1,4 +1,24 @@
-.registerTitle {
-  writing-mode: vertical-lr;
-  transform: rotate(180deg);
+.sponsor {
+  border: #F4FFDB 4vw solid;
+  display: flex;
+  padding: 5vh 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.handsWrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.divText {
+  color: #7D84F9;
+  font-size: min(5vw, 3.5vh);
+  text-align: center;
+  width: min(95%, 50%)
+}
+
+.hands {
+  margin: 0 1rem;
 }

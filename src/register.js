@@ -51,6 +51,19 @@ function Register() {
     }
   }
 
+  const handleClick = () => {
+    const thankYou = document.getElementById('thankYou');
+    thankYou.innerHTML = "<div>Thank you for registering!</div>";
+    thankYou.style.opacity = "100%";
+
+    setTimeout(function () {
+      thankYou.style.opacity = "0";
+      setTimeout(function () {
+        thankYou.innerHTML = "";
+      }, 1000);
+    }, 5000);
+  }
+
   return (
     <div className="register">
       <div className="registerTitle">Register</div>
@@ -102,7 +115,9 @@ function Register() {
           className="formInput formSumbit"
           type="submit"
           value="submit"
+          onClick={handleClick}
           />
+        <div id="thankYou"></div>
       </form>
     </div>
   );

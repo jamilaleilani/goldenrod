@@ -9,7 +9,7 @@
 .quoteText {
   margin: 7vw;
   padding: 5vw;
-  font-size: 7vw;
+  font-size: min(7vh, 7vw);
   text-align: center;
   line-height: 2;
   font-style: italic;
