@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/goldenrod/static/css/main.8795d7f5.chunk.css",
-    "main.js": "/goldenrod/static/js/main.e8d5e3af.chunk.js",
-    "main.js.map": "/goldenrod/static/js/main.e8d5e3af.chunk.js.map",
-    "runtime-main.js": "/goldenrod/static/js/runtime-main.d9501568.js",
-    "runtime-main.js.map": "/goldenrod/static/js/runtime-main.d9501568.js.map",
-    "static/js/2.d50cac01.chunk.js": "/goldenrod/static/js/2.d50cac01.chunk.js",
-    "static/js/2.d50cac01.chunk.js.map": "/goldenrod/static/js/2.d50cac01.chunk.js.map",
-    "static/js/3.d0eef414.chunk.js": "/goldenrod/static/js/3.d0eef414.chunk.js",
-    "static/js/3.d0eef414.chunk.js.map": "/goldenrod/static/js/3.d0eef414.chunk.js.map",
+    "main.js": "/goldenrod/static/js/main.8a93197f.chunk.js",
+    "main.js.map": "/goldenrod/static/js/main.8a93197f.chunk.js.map",
+    "runtime-main.js": "/goldenrod/static/js/runtime-main.4eba0db1.js",
+    "runtime-main.js.map": "/goldenrod/static/js/runtime-main.4eba0db1.js.map",
+    "static/js/2.1c2dfb13.chunk.js": "/goldenrod/static/js/2.1c2dfb13.chunk.js",
+    "static/js/2.1c2dfb13.chunk.js.map": "/goldenrod/static/js/2.1c2dfb13.chunk.js.map",
+    "static/js/3.a000a95f.chunk.js": "/goldenrod/static/js/3.a000a95f.chunk.js",
+    "static/js/3.a000a95f.chunk.js.map": "/goldenrod/static/js/3.a000a95f.chunk.js.map",
     "index.html": "/goldenrod/index.html",
     "static/css/main.8795d7f5.chunk.css.map": "/goldenrod/static/css/main.8795d7f5.chunk.css.map",
-    "static/js/2.d50cac01.chunk.js.LICENSE.txt": "/goldenrod/static/js/2.d50cac01.chunk.js.LICENSE.txt",
+    "static/js/2.1c2dfb13.chunk.js.LICENSE.txt": "/goldenrod/static/js/2.1c2dfb13.chunk.js.LICENSE.txt",
     "static/media/register.css": "/goldenrod/static/media/checkmark.eb306cd6.svg",
     "static/media/landing.b3a20374.svg": "/goldenrod/static/media/landing.b3a20374.svg",
     "static/media/purpleBlob.86f4fc2c.svg": "/goldenrod/static/media/purpleBlob.86f4fc2c.svg",
     "static/media/scheduleTitle.a777c219.svg": "/goldenrod/static/media/scheduleTitle.a777c219.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9501568.js",
-    "static/js/2.d50cac01.chunk.js",
+    "static/js/runtime-main.4eba0db1.js",
+    "static/js/2.1c2dfb13.chunk.js",
     "static/css/main.8795d7f5.chunk.css",
-    "static/js/main.e8d5e3af.chunk.js"
+    "static/js/main.8a93197f.chunk.js"
   ]
 }
