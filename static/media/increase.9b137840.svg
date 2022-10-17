@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="368px" height="340px" viewBox="0 0 368 340" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>increase</title>
+    <title>Group</title>
     <desc>Created with Sketch.</desc>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="iPhone-XR" transform="translate(-20.000000, -258.000000)">
             <g id="Group" transform="translate(20.000000, 256.000000)">
-                <text id="conference-2022" font-family="Flegrei-Regular, Flegrei" font-size="30" font-weight="normal" line-spacing="60" letter-spacing="1.05" fill="#612BFF">
+                <text id="conference-2022-Nov" font-family="Flegrei-Regular, Flegrei" font-size="30" font-weight="normal" line-spacing="60" letter-spacing="1.05" fill="#612BFF">
                     <tspan x="0" y="39.0352094">conference </tspan>
                     <tspan x="0" y="99.0352094" font-size="50" letter-spacing="1.4">2022</tspan>
+                    <tspan x="0" y="159.035209" font-family="Silom" font-weight="bold" letter-spacing="0.84">Nov 5</tspan>
                 </text>
                 <g id="Group-10" transform="translate(187.034600, 173.500000) rotate(-1.000000) translate(-187.034600, -173.500000) translate(3.034600, 4.000000)" fill="#FF41F0">
                     <path d="M0.0696573209,333.018062 L0.0696573209,275.002774 C5.28975179,275.002774 7.88643433,274.79624 13.0562146,274.018062 C13.1081011,293.770333 12.9893911,313.265017 13.0412776,333.018062 L0.0696573209,333.018062 Z" id="Fill-1"></path>
