@@ -1,10 +1,11 @@
 import './css/quote.css';
+import quote from './images/quote.svg';
+
 
 function Quote() {
   return (
     <div className="quote">
-      <div className="quoteText">
-        "the past is in your head, but the future is in your hands"
+      <div className="quoteInside" style={{ background: `center bottom / contain no-repeat url(${quote}) #612BFF` }}>
       </div>
     </div>
   );

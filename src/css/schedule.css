@@ -1,5 +1,5 @@
 .schedule {
-  background: #F5DAFF;
+  /* background: #F5DAFF; */
   display: flex;
   flex-direction: column;
   margin: 4vh 1vw;
@@ -8,24 +8,24 @@
 .content {
   display: flex;
   flex-direction: column;
-  margin: 15vh auto 0 auto;
+  margin: 10vh auto 0 auto;
 }
 
 .scheduleItem {
   display: flex;
   justify-content: space-between;
-  margin: 1vw 0;
-  color: #7D86F1;
+  margin: 2vw 0;
+  color: #612BFF;
   align-items: flex-end;
 }
 
 .time {
-  font-size: min(3vh, 4vw);
+  font-size: min(4vh, 5vw);
 }
 
 .activity {
-  margin-left: 5vw;
-  font-size: min(4vh, 5vw);
+  margin-left: 6vw;
+  font-size: min(3.5vh, 4.5vw);
 }
 
 .title {
@@ -39,5 +39,5 @@
   height: 20vh;
   text-transform: uppercase; */
   height: min(12vh, 14vw);
-  margin: 5vh 0 8vh 0;
+  margin: 5vh 2vh 5vh 2vh;
 }

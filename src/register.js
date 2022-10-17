@@ -1,5 +1,6 @@
 import './css/register.css';
 import { useState } from "react";
+import register from './images/Register.svg';
 
 // const SPREADSHEET_ID = "1x1t6XqqLazvLXRcpeX-aXy3PJKeixlKzPNhxfh6OwCo";
 // const CLIENT_ID = "866141630253-r3av3frghth77e4u6of53n3vkb1aee2t.apps.googleusercontent.com";
@@ -66,7 +67,8 @@ function Register() {
 
   return (
     <div className="register">
-      <div className="registerTitle">Register</div>
+      <div className="registerTitle" style={{ background: `center bottom / contain no-repeat url(${register})` }}>
+      </div>
       <form className="registrationForm" onSubmit={handleSubmit}>
         <input
           className="formInput"
