@@ -1,11 +1,10 @@
 import './css/schedule.css';
-import purpleBlob from './images/purpleBlob.svg';
-import scheduleTitle from './images/scheduleTitle.svg';
+import schedule from './images/Schedule.svg';
 
 function Schedule() {
   return (
     <div>
-      <div className="schedule" style={{ background: `center / contain no-repeat url(${purpleBlob})` }} >
+      <div className="schedule">
         <div className="content">
           <div className="scheduleItem">
             <div className="time">12pm</div>
@@ -29,14 +28,10 @@ function Schedule() {
           </div>
           <div className="scheduleItem">
             <div className="time">5pm</div>
-            <div className="activity">All-Hands</div>
-          </div>
-          <div className="scheduleItem">
-            <div className="time">6pm</div>
             <div className="activity">Networking & Happy Hour</div>
           </div>
         </div>
-        <div className="title" style={{ background: `center bottom / contain no-repeat url(${scheduleTitle})` }}>
+        <div className="title" style={{ background: `center bottom / contain no-repeat url(${schedule})` }}>
         </div>
       </div>
     </div>

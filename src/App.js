@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     WebFont.load({
       google: {
-        families: ['Gill Sans']
+        families: ['courier']
       }
     });
    }, []);
@@ -24,7 +24,6 @@ function App() {
       <Schedule />
       <Quote />
       <Register />
-      <Sponsor />
     </div>
   );
 }

@@ -1,18 +1,10 @@
 .quote {
-  background: ;
+  background-color: #612BFF;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #F4FFDB;
+  height: 50vh;
 }
 
-.quoteText {
-  margin: 7vw;
-  padding: 5vw;
-  font-size: min(7vh, 7vw);
-  text-align: center;
-  line-height: 2;
-  font-style: italic;
-  border: 4px solid #CBB2F7;
-  color: #7D86F1;
+.quoteInside {
+  width: 90vw;
+  margin: 20vh auto;
 }

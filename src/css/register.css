@@ -1,30 +1,19 @@
 .register {
   display: flex;
-  background: #7D86F1;
-  border-top: 6vh solid #CBB2F7;
-  border-bottom: 12vh solid #CBB2F7;
-  border-left: 5vw solid #CBB2F7;
-  border-right: 5vw solid #CBB2F7;
-  padding: 7rem 0 2rem 0;
-  align-items: flex-end;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
 }
 
 .registerTitle {
-  writing-mode: vertical-lr;
-  transform: rotate(180deg);
-  font-size: 4.5rem;
-  text-transform: uppercase;
-  color: #7D86F1;
-  text-stroke: 1px #F4FFDB;
-  -webkit-text-stroke: 2px #F4FFDB;
-  margin-bottom: 5rem;
+  padding: 10vh 0;
+  width: 80%;
 }
 
 .registrationForm {
   display: flex;
   flex-direction: column;
-  padding: 0 .75rem 0 .5rem;
+  padding: 5vh .75rem 0 .5rem;
 }
 
 input {
@@ -34,9 +23,8 @@ input {
   -o-appearance: none;
   appearance: none;
   border-radius: 0;
-  border: .3rem solid #FEFEFE;
-  background: #FEFEFE88;
-  color: #fefefe;
+  border: .3rem solid #612BFF;
+  color: #612BFF;
   font-size: 1.5rem;
 }
 
@@ -49,11 +37,11 @@ input {
 
 ::placeholder {
   font-size: 1.5rem;
-  color: #7D86F1;
+  color: #612BFF;
 }
 
 .formCheck {
-  color: #fefefe;
+  color: #612BFF;
   margin-bottom: 2rem;
   display: flex;
   align-items: center;
@@ -64,7 +52,7 @@ input {
 .formSpan {
   font-size: 1.5rem !important;
   padding-right: 1rem;
-  color: #f4ffdb;
+  color: #612BFF;
 }
 
 .formCheckmark {
@@ -79,10 +67,10 @@ input {
 }
 
 .formSumbit {
-  background: #3C3C67;
+  background: #FF41F0;
   text-transform: uppercase;
   text-align: center;
-  color: #FEFEFE;
+  color: #612BFF;
   font-size: 1.5rem;
   border: 0;
   margin-bottom: 0;
@@ -108,5 +96,5 @@ input {
   width: 100%;
   font-size: 2rem;
   padding-top: 2rem;
-  color: #F5DAFF;
+  color: #612BFF;
 }
