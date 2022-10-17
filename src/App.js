@@ -6,7 +6,6 @@ import Landing2 from './landing2.js';
 import Schedule from './schedule.js';
 import Quote from './quote.js';
 import Register from './register.js';
-import Sponsor from './sponsor.js';
 
 function App() {
 
